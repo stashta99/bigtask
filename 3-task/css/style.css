@@ -1,0 +1,91 @@
+.first-div{
+    background-color: rgb(91, 52, 207);
+    height: 35;
+}
+.menu{
+    margin-left: 100;
+}
+.ICON{
+    width:50 ;
+    height: 50;
+}
+
+.bottom{
+    margin-left: 40;
+    font-size: small;
+
+}
+.iconsvedio{
+    font-size: 30;
+    color:rgb(91, 52, 207);
+    margin-left: 40;
+}
+    
+.btn-1{
+    background-color:rgb(91, 52, 207);
+    color: white;
+}
+.img-1{
+    width: 500;
+    margin-top: 20;
+}
+
+.custom-shape-divider-bottom-1724150164 {
+    position: relative;
+    bottom: 140;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1724150164 svg {
+    position: relative;
+    display: block;
+    width: calc(162% + 1.3px);
+    height: 270px;
+}
+
+.custom-shape-divider-bottom-1724150164 .shape-fill {
+    fill: rgb(235, 234, 235);
+   
+}
+.gard-main{
+
+            background: linear-gradient(to right, #4a0291, 
+                    #7f0fe1, #8314e4, rgb(244, 161, 234)); 
+            -webkit-background-clip: text;   
+            -webkit-text-fill-color: transparent; 
+}
+.gard-2{
+    color:rgb(61, 61, 188);
+}
+.trans-1{
+    position: relative;
+    bottom: 240;
+    right: 30;
+    
+}
+.trans-2{
+    position: relative;
+    bottom: 210;
+    
+}
+ .navimg{
+    width: 30;
+    height: 30;
+ }   
+ 
+.imgs{
+    width: 100;
+    height:100;
+}
+
+.roundimg{
+width: 20;
+height: 20;
+}
+   
+   
+     
+  
